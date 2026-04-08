@@ -66,7 +66,3 @@ curl -X POST http://localhost:4000/v1/chat/completions -H "Authorization: Bearer
 docker compose down
 ```
 
-## Notes
-
-- Keep `.env` out of git.
-- Rotate your key if it was ever shared.
